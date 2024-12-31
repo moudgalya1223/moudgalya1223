@@ -14,14 +14,14 @@ Welcome to the world of a developer where code meets style. With a sharp mind an
 
 - 🌱 Currently mastering **Machine Learning** and **Cloud Computing**.
 - 💬 Ask me about **JavaScript**, **Python**, **React**, and **Flutter**.
-- 📫 Reach out to me: [email@example.com](mailto:email@example.com)
+- 
 - ⚡ Fun fact: I enjoy hiking and painting in my free time.
 
 ## Skills
 - **Languages:** JavaScript, Python, Dart, HTML, CSS
 - **Frameworks/Libraries:** React, Node.js, Express, Flutter
 - **Tools:** Git, Docker, VS Code
-- **Databases:** MongoDB, MySQL
+- 
 
 ## Projects
 
