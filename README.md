@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 # Hi there, welcome to my GitHub! 👋
 
-![Harvey Specter](https://www.example.com/harvey-specter-image.jpg)
+![Harvey Specter](https://firebasestorage.googleapis.com/v0/b/moudgalya.appspot.com/o/5323c074-d756-474d-ac9f-8881012de4e0.jpg?alt=media&token=dfaa1a1f-f792-4d9a-ba11-090be5c7f979)
 
 ## About Me
 Welcome to the world of a developer where code meets style. With a sharp mind and an eye for detail, just like Harvey Specter from Suits, I thrive on challenges and never back down from a tough problem.
